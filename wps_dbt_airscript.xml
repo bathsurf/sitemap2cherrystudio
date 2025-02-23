@@ -1,0 +1,2322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/api-instro.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets_Add.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets_Move.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_AddDescription.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_Icon.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_Name.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_Copy.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets_OnCreateSheet.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_OnRename.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_OnDelete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Views_Add.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Name.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Copy.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_IsPersonal.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_IsFavView.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GridView_FrozenCols.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GridView_RowHeight.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttView_BeginField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttView_EndField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttView_TimelineColor.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttView_IsOnlyWorkDay.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttViewUI_PrevPage.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttViewUI_Today.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttViewUI_GanttGridFold.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/QueryView_QueryFields.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/QueryView_BackgroundImage.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CalendarView_TimelineColor.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CalendarView_BeginField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CalendarView_EndField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CalendarView_TitleField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Views_OnCreate.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_OnDelete.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_OnRename.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Records_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Records_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Condition.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Record_Select.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Window_DisplayRecord.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Window_HiddenAllRecord.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Value.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Font.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Interior.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_OnUpdate.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_OnDeleteRecord.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptors_AddField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field_Copy.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field_Visible.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field_Move.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_Name.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_Type.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_DefaultVal.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_IsValueUnique.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DateField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DateField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DateField_IsShowWeek.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DateField_IsShowTime.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DateField_IsShowHoliday.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/NumberField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/NumberField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/NumberField_IsShowThousand.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/UrlField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/UrlField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/UrlField_HyperLinkText.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SelectField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SelectField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SelectField_Items.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SelectField_IsAddItemWhenInputting.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RatingField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RatingField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RatingField_MaxRating.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AttachmentField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AttachmentField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AttachmentField_DisplayStyle.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AttachmentField_IsOnlyCameraUpload.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ContactField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ContactField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ContactField_IsSupportMulti.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ContactField_IsSupportNotice.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LinkField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LinkField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LinkField_IsSupportMultiLinks.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LinkField_IsAutoLink.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LinkField_LinkSheet.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LinkField_LinkView.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LinkField_AutoLinkGroups.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AddressField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AddressField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AddressField_IsDetailedAddress.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AddressField_IsUsePresetAddress.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AddressField_PresetAddress.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AddressField_Level.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FormulaField_Formula.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutomationField_Type.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutomationField_ContactField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutomationField_ExecuteTime.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeField_getValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeField_setValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeField_AllCascadeOption.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeField_IsDisplayAllLevel.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeField_Title.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/WatchedField_IsWatchedAll.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/WatchedField_WatchedFields.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptors_OnCreate.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_OnDelete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_OnUpdate.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sort_IsAscending.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sorts_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sorts_ChangeOrder.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filter_Criteria.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filters_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filter_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Groups_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Group_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Groups_UnFoldAll.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Groups_FoldAll.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComment_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComment_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComments_OnCreate.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComments_OnDelete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SyncDBSheet_RefreshSyncSheet.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SyncDBSheet_RemoveSheetSyncLink.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DataSource_CreateSyncDBSheets.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DataSource_CreateSummarySheet.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfigs_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfigs_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/NoticeBar_Visible.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Window_NoticeBar.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Navigator_Visible.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Window_BailHook.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Window_SetLayout.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Window_Navigator.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_FieldDescriptors.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_Id.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_RecordRange.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_Views.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_AppendFromCloud.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_AppendFromLocal.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_CreateFields.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_DeleteFields.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_FieldId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_GetFields.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_Share.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_UpdateFields.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheet_OnCreateRecord.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets_GetActiveSheetId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets_GetActiveSheetIndex.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sheets_ItemById.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CalendarView.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CalendarView_TimelineColorFollowField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CalendarView_TimelineColorType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CardViewUI.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CardViewUI_ViewMode.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttView.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttView_Calendars.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttView_TimelineColorFollowField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttView_TimelineColorType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttViewUI.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttViewUI_ViewMode.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GanttViewUI_NextPage.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/GridView.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/QueryView.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Description.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Fields.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Filters.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Groups.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Id.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_RecordRange.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Records.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Selection.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Sorts.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Type.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_ViewShare.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/View_Activate.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare_CanAddRemoveRecords.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare_EditableFieldsInfo.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare_EditableRecType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare_ShareUrl.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare_SharedLinkInfo.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare_VisibleRecType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare_ChangePermission.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ViewShare_SetEnable.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Views.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Views_ActiveView.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Views_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Views_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Views_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Views_ItemById.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Record.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Record_Id.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Record_Text.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Record_Value.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Record_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Record_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_FieldId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Id.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Index.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Text.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_Select.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordRange_SetValues.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Records.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Records_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Records_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Records_FindNext.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Records_FindPrevious.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AddressField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Attachment.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Attachment_FileId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Attachment_FileName.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Attachment_FileSize.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Attachment_FileType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Attachment_ImgSize.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Attachment_LinkUrl.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AttachmentField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkCondition.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkCondition_DateIntersectedValues.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkCondition_IntersectedConds.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkCondition_LinkSheetFieldId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkCondition_OpType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkCondition_SheetCondContents.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkCondition_SheetCondType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkConditions.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkConditions_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkConditions_Add.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkConditions_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkConditions_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkGroup.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkGroup_Conditions.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkGroups.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkGroups_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkGroups_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkGroups_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutoLinkGroups_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutomationField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/AutomationField_TriggerField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ButtonField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ButtonField_BackgroundColor.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ButtonField_Icon.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ButtonField_SuccessText.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ButtonField_Text.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ButtonField_TextColor.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeOption.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeOption_Children.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeOption_Id.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeOption_Value.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeOptions.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeOptions_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeOptions_Add.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/CascadeOptions_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ContactField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DBCellValue.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DBCellValue_Value.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DateField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field_FieldDescriptor.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field_Id.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field_Name.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field_Type.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Field_Width.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_DefaultValType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_Description.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_Id.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_IsSyncField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_NumberFormat.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptor_Apply.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptors.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptors_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptors_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptors_FieldDescriptor.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FieldDescriptors_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Fields.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Fields_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Fields_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FormulaField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FormulaField_IsShowPercentAsProgress.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/FormulaField_ValueType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LinkField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LookupField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LookupField_LinkFieldId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LookupField_LookupFieldId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LookupField_LookupSheetId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/LookupField_LookupType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/NumberField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RatingField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SelectField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/TextLinkRun.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/TextLinkRun_Address.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/TextLinkRun_Length.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/TextLinkRun_LinkRunsType.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/TextLinkRun_Pos.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/TextLinkRuns.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/TextLinkRuns_Count.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/TextLinkRuns_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/UrlField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/WatchedField.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sort.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sort_Field.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sort_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sorts.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sorts_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sorts_IsAuto.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Sorts_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Criteria.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Criteria_Field.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Criteria_Op.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Criteria_Value.html</loc>
+  <lastmod>2025-02-18T11:21:42+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filter.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filter_FieldId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filter_FilterId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filters.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filters_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filters_Operator.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filters_Clear.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Filters_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Group.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Group_Field.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Group_IsAscending.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Group_Unit.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Groups.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Groups_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Groups_IsTempUnFold.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Groups_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DbComment.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DbComment_Id.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DbComment_Text.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DbComment_Delete.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComment.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComment_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComment_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComments.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComments_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/RecordComments_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DataSource.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DataSource_ImportFromCloud.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/DataSource_ImportFromLocal.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySheet.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySheet_SourceConfigs.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySheet_RefreshSyncSheet.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySheet_RemoveSheetSyncLink.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfig.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfig_FileId.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfig_SheetIds.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfig_SetSheets.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfig_SetUrl.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfigs.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfigs_Count.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfigs_Apply.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SummarySourceConfigs_Item.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/SyncDBSheet.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/NoticeBar.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ApiResult.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ApiResult_Code.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/ApiResult_Message.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_DbAutomationPresetType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_DbButtonIcon.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_DbFieldValueType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_DbFilterCriteriaOpType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_DbGroupUnit.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_DbLookupFunction.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_DbSharedCriteriaType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_FilterOpType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_SharedLinkPermissionType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Enum_SharedLinkToType.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Font.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Font_Color.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Interior.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Interior_Color.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Navigator.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Window.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://open.wps.cn/documents/app-integration-dev/guide/dbsheet/Api/Window_GanttViewUI.html</loc>
+  <lastmod>2025-02-18T11:21:38+00:00</lastmod>
+  <changefreq>never</changefreq>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
